@@ -9,7 +9,7 @@ python3 hashcracker.py
 
 Usage:
 
-<img src='https://github.com/VLDG2712/hash-cracker'>
+<img src='https://i.imgur.com/DLBhCh1.gif'>
 
 
 My social links: http://multilink.ga/vldg
