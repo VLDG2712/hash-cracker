@@ -19,10 +19,6 @@
 ## ROCKYOU WORDLIST CLEANED & ENCODED IN UTF-8 > https://drive.google.com/file/d/1WTnZL3-ptbZvmtNPfKplF0G8d46qaOnw/view?usp=sharing ##
 ######################################################################################################################################
 
-##############################################
-## ALSO IM BEGGINER, IM OPEN TO SUGGESTIONS ##
-##############################################
-
 #############
 ## MODULES ##
 #############
