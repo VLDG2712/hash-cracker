@@ -11,5 +11,7 @@ Usage:
 
 <img src='https://i.imgur.com/DLBhCh1.gif'>
 
+Wordlist > https://drive.google.com/file/d/1WTnZL3-ptbZvmtNPfKplF0G8d46qaOnw/view?usp=sharing
+
 
 My social links: http://multilink.ga/vldg
