@@ -15,4 +15,6 @@ Usage:
 Wordlist > https://drive.google.com/file/d/1WTnZL3-ptbZvmtNPfKplF0G8d46qaOnw/view?usp=sharing
 
 
-My social links: http://multilink.ga/vldg
+
+
+My website: <a href='https://prometh.ml/'> Prometh Infosec Blog <a>
