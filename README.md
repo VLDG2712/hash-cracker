@@ -4,6 +4,7 @@ Python3 Hash Cracking Tool
 ```
 git clone https://github.com/VLDG2712/hash-cracker
 cd hash-cracker
+pip3 install -r requirements.txt
 python3 hashcracker.py
 ```
 
